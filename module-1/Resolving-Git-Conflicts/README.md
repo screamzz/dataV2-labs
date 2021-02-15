@@ -1,5 +1,5 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
-
+ma modif
 # Lab | Resolving Git Conflicts
 
 ## Introduction
